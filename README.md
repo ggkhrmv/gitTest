@@ -3,6 +3,6 @@
 <<<<<<< HEAD
 # Nur der SVW.
 =======
-## Hello World! Mia san mia
+## Mia san mia
   
 ## Nur der KSC
