@@ -1,5 +1,3 @@
 # gitTest
 
-## Hello World!
-
-## More Hello World!
+# Nur der SVW.
