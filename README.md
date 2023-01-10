@@ -1,4 +1,5 @@
 # gitTest
+hallo
 
 <<<<<<< HEAD
 # Nur der SVW.
