@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 # Nur der SVW.
 =======
-# <span style="color:red">Mia San Mia</span>. 
+# <span style="color:red"> *Mia San Mia* </span> 
 ## Nur der KSC
 
 <<<<<<< HEAD
